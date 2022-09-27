@@ -1,6 +1,6 @@
 # Temporal Knowledge Graph Reasoning via Time-Distributed Representation Learning
 
-This is the release code of the following paper:
+This is the released codes of the following paper:
 
 Kangzheng Liu, Feng Zhao, Guandong Xu, Xianzhi Wang, and Hai Jin. Temporal Knowledge Graph Reasoning via Time-Distributed Representation Learning. ICDM 2022.
 
