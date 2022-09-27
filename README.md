@@ -4,7 +4,7 @@ This is the release code of the following paper:
 
 Kangzheng Liu, Feng Zhao, Guandong Xu, Xianzhi Wang, and Hai Jin. Temporal Knowledge Graph Reasoning via Time-Distributed Representation Learning. ICDM 2022.
 
-![DHU-NET](.\img\DHU-NET.png)
+![DHU-NET](https://github.com/Liudaxian1/FIG/blob/main/DHU-NET.png)
 
 ## Environment dependencies
 
