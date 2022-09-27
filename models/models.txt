@@ -1,2 +1,2 @@
-Down the trained models from the following link:
+Down the trained models from the following link and put them in this folder (/models):
 https://github.com/Liudaxian1/DHU/tree/main/models
