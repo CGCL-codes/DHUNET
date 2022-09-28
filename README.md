@@ -47,7 +47,7 @@ python main.py -d YAGO --train-history-len 3 --test-history-len 3 --dilate-len 1
 
 ## Reproduce the results in our paper
 
-We provide trained models for all datasets. The trained models can be downloaded at https://github.com/Liudaxian1/DHU/tree/main/models. Then put the trained models in the "./models" folder. Note that the commands in the $Process\ data$ section should be run first. Then directly use the following commands for different datasets to reproduce the results reported in our paper:
+We provide trained models for all datasets. The trained models can be downloaded at https://github.com/Liudaxian1/TrainedModels/tree/main/DHUNET_Models. Then put the trained models in the "./models" folder. Note that the commands in the $Process\ data$ section should be run first. Then directly use the following commands for different datasets to reproduce the results reported in our paper:
 
 YAGO:
 
