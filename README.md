@@ -88,3 +88,7 @@ python main.py -d GDELT --train-history-len 3 --test-history-len 3 --dilate-len 
 ## Contacts
 
 Contact us with the following email address: FrankLuis@hust.edu.cn.
+
+## Acknowledgements
+
+The source codes take [RE-GCN](https://github.com/Lee-zix/RE-GCN) as the backbone to implement our proposed method. Please cite both our work and [RE-GCN](https://github.com/Lee-zix/RE-GCN) if you would like to use our source codes.
