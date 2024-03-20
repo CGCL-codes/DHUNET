@@ -6,6 +6,32 @@ Kangzheng Liu, Feng Zhao, Guandong Xu, Xianzhi Wang, and Hai Jin. Temporal Knowl
 
 ![DHU-NET](https://github.com/Liudaxian1/FIG/blob/main/DHU-NET.png)
 
+## Citation
+
+Please find the citation information of our paper here:
+
+```shell
+@inproceedings{DBLP:conf/icdm/LiuZX0022,
+  author       = {Kangzheng Liu and
+                  Feng Zhao and
+                  Guandong Xu and
+                  Xianzhi Wang and
+                  Hai Jin},
+  title        = {Temporal Knowledge Graph Reasoning via Time-Distributed Representation
+                  Learning},
+  booktitle    = {{IEEE} International Conference on Data Mining, {ICDM} 2022, Orlando,
+                  FL, USA, November 28 - Dec. 1, 2022},
+  pages        = {279--288},
+  publisher    = {{IEEE}},
+  year         = {2022},
+  url          = {https://doi.org/10.1109/ICDM54844.2022.00038},
+  doi          = {10.1109/ICDM54844.2022.00038},
+  timestamp    = {Tue, 21 Mar 2023 20:53:05 +0100},
+  biburl       = {https://dblp.org/rec/conf/icdm/LiuZX0022.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
 ## Environment dependencies
 
 ```shell
